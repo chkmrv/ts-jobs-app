@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap");
+
+:root {
+  --font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  --font-size: 18px;
+}
+
+html, body {
+  font-size: 16px;
+  font-family: var(--font-family);
+  margin: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
