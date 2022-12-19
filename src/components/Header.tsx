@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <header>
       <Navbar>
-        <Title>Compa</Title>
+        <Title>Test here</Title>
       </Navbar>
     </header>
   );
